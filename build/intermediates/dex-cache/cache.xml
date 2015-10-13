@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ali/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-54ce7cfdfda6f0e348dab85cf40f03d3c00d1ba1.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-adb4c0b1403c4b76e6e20bd2c1dbb2c6d09cf6ab.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-b1d5639cf1c745beb88e2573175779f8a2e5e4e2.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-708f16279a61ee3ba931d9fa5613067022217226.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/home/ali/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-f9f47b491d8876af5a29fc6ab030c7b66e926609.jar" />
+    </item>
+
+</items>
